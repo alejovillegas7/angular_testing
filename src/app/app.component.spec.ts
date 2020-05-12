@@ -1255,4 +1255,980 @@ describe('AppComponent', () => {
     expect(romanService.convert(300)).toBe('CCC');
   });
 
+  it('should change 301', () => {
+    expect(romanService.convert(301)).toBe('CCCI');
+  });
+
+  it('should change 302', () => {
+    expect(romanService.convert(302)).toBe('CCCII');
+  });
+
+  it('should change 303', () => {
+    expect(romanService.convert(303)).toBe('CCCIII');
+  });
+
+  it('should change 304', () => {
+    expect(romanService.convert(304)).toBe('CCCIV');
+  });
+
+  it('should change 305', () => {
+    expect(romanService.convert(305)).toBe('CCCV');
+  });
+
+  it('should change 306', () => {
+    expect(romanService.convert(306)).toBe('CCCVI');
+  });
+
+  it('should change 307', () => {
+    expect(romanService.convert(307)).toBe('CCCVII');
+  });
+
+  it('should change 308', () => {
+    expect(romanService.convert(308)).toBe('CCCVIII');
+  });
+
+  it('should change 309', () => {
+    expect(romanService.convert(309)).toBe('CCCIX');
+  });
+
+  it('should change 310', () => {
+    expect(romanService.convert(310)).toBe('CCCX');
+  });
+
+  it('should change 311', () => {
+    expect(romanService.convert(311)).toBe('CCCXI');
+  });
+
+  it('should change 312', () => {
+    expect(romanService.convert(312)).toBe('CCCXII');
+  });
+
+  it('should change 313', () => {
+    expect(romanService.convert(313)).toBe('CCCXIII');
+  });
+
+  it('should change 314', () => {
+    expect(romanService.convert(314)).toBe('CCCXIV');
+  });
+
+  it('should change 315', () => {
+    expect(romanService.convert(315)).toBe('CCCXV');
+  });
+
+  it('should change 316', () => {
+    expect(romanService.convert(316)).toBe('CCCXVI');
+  });
+
+  it('should change 317', () => {
+    expect(romanService.convert(317)).toBe('CCCXVII');
+  });
+
+  it('should change 318', () => {
+    expect(romanService.convert(318)).toBe('CCCXVIII');
+  });
+
+  it('should change 319', () => {
+    expect(romanService.convert(319)).toBe('CCCXIX');
+  });
+
+  it('should change 320', () => {
+    expect(romanService.convert(320)).toBe('CCCXX');
+  });
+
+  it('should change 321', () => {
+    expect(romanService.convert(321)).toBe('CCCXXI');
+  });
+
+  it('should change 322', () => {
+    expect(romanService.convert(322)).toBe('CCCXXII');
+  });
+
+  it('should change 323', () => {
+    expect(romanService.convert(323)).toBe('CCCXXIII');
+  });
+
+  it('should change 324', () => {
+    expect(romanService.convert(324)).toBe('CCCXXIV');
+  });
+
+  it('should change 325', () => {
+    expect(romanService.convert(325)).toBe('CCCXXV');
+  });
+
+  it('should change 326', () => {
+    expect(romanService.convert(326)).toBe('CCCXXVI');
+  });
+
+  it('should change 327', () => {
+    expect(romanService.convert(327)).toBe('CCCXXVII');
+  });
+
+  it('should change 328', () => {
+    expect(romanService.convert(328)).toBe('CCCXXVIII');
+  });
+
+  it('should change 329', () => {
+    expect(romanService.convert(329)).toBe('CCCXXIX');
+  });
+
+  it('should change 330', () => {
+    expect(romanService.convert(330)).toBe('CCCXXX');
+  });
+
+  it('should change 331', () => {
+    expect(romanService.convert(331)).toBe('CCCXXXI');
+  });
+
+  it('should change 332', () => {
+    expect(romanService.convert(332)).toBe('CCCXXXII');
+  });
+
+  it('should change 333', () => {
+    expect(romanService.convert(333)).toBe('CCCXXXIII');
+  });
+
+  it('should change 334', () => {
+    expect(romanService.convert(334)).toBe('CCCXXXIV');
+  });
+
+  it('should change 335', () => {
+    expect(romanService.convert(335)).toBe('CCCXXXV');
+  });
+
+  it('should change 336', () => {
+    expect(romanService.convert(336)).toBe('CCCXXXVI');
+  });
+
+  it('should change 337', () => {
+    expect(romanService.convert(337)).toBe('CCCXXXVII');
+  });
+
+  it('should change 338', () => {
+    expect(romanService.convert(338)).toBe('CCCXXXVIII');
+  });
+
+  it('should change 339', () => {
+    expect(romanService.convert(339)).toBe('CCCXXXIX');
+  });
+
+  it('should change 340', () => {
+    expect(romanService.convert(340)).toBe('CCCXL');
+  });
+
+  it('should change 341', () => {
+    expect(romanService.convert(341)).toBe('CCCXLI');
+  });
+
+  it('should change 342', () => {
+    expect(romanService.convert(342)).toBe('CCCXLII');
+  });
+
+  it('should change 343', () => {
+    expect(romanService.convert(343)).toBe('CCCXLIII');
+  });
+
+  it('should change 344', () => {
+    expect(romanService.convert(344)).toBe('CCCXLIV');
+  });
+
+  it('should change 345', () => {
+    expect(romanService.convert(345)).toBe('CCCXLV');
+  });
+
+  it('should change 346', () => {
+    expect(romanService.convert(346)).toBe('CCCXLVI');
+  });
+
+  it('should change 347', () => {
+    expect(romanService.convert(347)).toBe('CCCXLVII');
+  });
+
+  it('should change 348', () => {
+    expect(romanService.convert(348)).toBe('CCCXLVIII');
+  });
+
+  it('should change 349', () => {
+    expect(romanService.convert(349)).toBe('CCCXLIX');
+  });
+
+  it('should change 350', () => {
+    expect(romanService.convert(350)).toBe('CCCL');
+  });
+
+  it('should change 351', () => {
+    expect(romanService.convert(351)).toBe('CCCLI');
+  });
+
+  it('should change 352', () => {
+    expect(romanService.convert(352)).toBe('CCCLII');
+  });
+
+  it('should change 353', () => {
+    expect(romanService.convert(353)).toBe('CCCLIII');
+  });
+
+  it('should change 354', () => {
+    expect(romanService.convert(354)).toBe('CCCLIV');
+  });
+
+  it('should change 355', () => {
+    expect(romanService.convert(355)).toBe('CCCLV');
+  });
+
+  it('should change 356', () => {
+    expect(romanService.convert(356)).toBe('CCCLVI');
+  });
+
+  it('should change 357', () => {
+    expect(romanService.convert(357)).toBe('CCCLVII');
+  });
+
+  it('should change 358', () => {
+    expect(romanService.convert(358)).toBe('CCCLVIII');
+  });
+
+  it('should change 359', () => {
+    expect(romanService.convert(359)).toBe('CCCLIX');
+  });
+
+  it('should change 360', () => {
+    expect(romanService.convert(360)).toBe('CCCLX');
+  });
+
+  it('should change 361', () => {
+    expect(romanService.convert(361)).toBe('CCCLXI');
+  });
+
+  it('should change 362', () => {
+    expect(romanService.convert(362)).toBe('CCCLXII');
+  });
+
+  it('should change 363', () => {
+    expect(romanService.convert(363)).toBe('CCCLXIII');
+  });
+
+  it('should change 364', () => {
+    expect(romanService.convert(364)).toBe('CCCLXIV');
+  });
+
+  it('should change 365', () => {
+    expect(romanService.convert(365)).toBe('CCCLXV');
+  });
+
+  it('should change 366', () => {
+    expect(romanService.convert(366)).toBe('CCCLXVI');
+  });
+
+  it('should change 367', () => {
+    expect(romanService.convert(367)).toBe('CCCLXVII');
+  });
+
+  it('should change 368', () => {
+    expect(romanService.convert(368)).toBe('CCCLXVIII');
+  });
+
+  it('should change 369', () => {
+    expect(romanService.convert(369)).toBe('CCCLXIX');
+  });
+
+  it('should change 370', () => {
+    expect(romanService.convert(370)).toBe('CCCLXX');
+  });
+
+  it('should change 371', () => {
+    expect(romanService.convert(371)).toBe('CCCLXXI');
+  });
+
+  it('should change 372', () => {
+    expect(romanService.convert(372)).toBe('CCCLXXII');
+  });
+
+  it('should change 373', () => {
+    expect(romanService.convert(373)).toBe('CCCLXXIII');
+  });
+
+  it('should change 374', () => {
+    expect(romanService.convert(374)).toBe('CCCLXXIV');
+  });
+
+  it('should change 375', () => {
+    expect(romanService.convert(375)).toBe('CCCLXXV');
+  });
+
+  it('should change 376', () => {
+    expect(romanService.convert(376)).toBe('CCCLXXVI');
+  });
+
+  it('should change 377', () => {
+    expect(romanService.convert(377)).toBe('CCCLXXVII');
+  });
+
+  it('should change 378', () => {
+    expect(romanService.convert(378)).toBe('CCCLXXVIII');
+  });
+
+  it('should change 379', () => {
+    expect(romanService.convert(379)).toBe('CCCLXXIX');
+  });
+
+  it('should change 380', () => {
+    expect(romanService.convert(380)).toBe('CCCLXXX');
+  });
+
+  it('should change 381', () => {
+    expect(romanService.convert(381)).toBe('CCCLXXXI');
+  });
+
+  it('should change 382', () => {
+    expect(romanService.convert(382)).toBe('CCCLXXXII');
+  });
+
+  it('should change 383', () => {
+    expect(romanService.convert(383)).toBe('CCCLXXXIII');
+  });
+
+  it('should change 384', () => {
+    expect(romanService.convert(384)).toBe('CCCLXXXIV');
+  });
+
+  it('should change 385', () => {
+    expect(romanService.convert(385)).toBe('CCCLXXXV');
+  });
+
+  it('should change 386', () => {
+    expect(romanService.convert(386)).toBe('CCCLXXXVI');
+  });
+
+  it('should change 387', () => {
+    expect(romanService.convert(387)).toBe('CCCLXXXVII');
+  });
+
+  it('should change 388', () => {
+    expect(romanService.convert(388)).toBe('CCCLXXXVIII');
+  });
+
+  it('should change 389', () => {
+    expect(romanService.convert(389)).toBe('CCCLXXXIX');
+  });
+
+  it('should change 390', () => {
+    expect(romanService.convert(390)).toBe('CCCXC');
+  });
+
+  it('should change 391', () => {
+    expect(romanService.convert(391)).toBe('CCCXCI');
+  });
+
+  it('should change 392', () => {
+    expect(romanService.convert(392)).toBe('CCCXCII');
+  });
+
+  it('should change 393', () => {
+    expect(romanService.convert(393)).toBe('CCCXCIII');
+  });
+
+  it('should change 394', () => {
+    expect(romanService.convert(394)).toBe('CCCXCIV');
+  });
+
+  it('should change 395', () => {
+    expect(romanService.convert(395)).toBe('CCCXCV');
+  });
+
+  it('should change 396', () => {
+    expect(romanService.convert(396)).toBe('CCCXCVI');
+  });
+
+  it('should change 397', () => {
+    expect(romanService.convert(397)).toBe('CCCXCVII');
+  });
+
+  it('should change 398', () => {
+    expect(romanService.convert(398)).toBe('CCCXCVIII');
+  });
+
+  it('should change 399', () => {
+    expect(romanService.convert(399)).toBe('CCCXCIX');
+  });
+
+  it('should change 400', () => {
+    expect(romanService.convert(400)).toBe('CD');
+  });
+
+  it('should change 401', () => {
+    expect(romanService.convert(401)).toBe('CDI');
+  });
+
+  it('should change 402', () => {
+    expect(romanService.convert(402)).toBe('CDII');
+  });
+
+  it('should change 403', () => {
+    expect(romanService.convert(403)).toBe('CDIII');
+  });
+
+  it('should change 404', () => {
+    expect(romanService.convert(404)).toBe('CDIV');
+  });
+
+  it('should change 405', () => {
+    expect(romanService.convert(405)).toBe('CDV');
+  });
+
+  it('should change 406', () => {
+    expect(romanService.convert(406)).toBe('CDVI');
+  });
+
+  it('should change 407', () => {
+    expect(romanService.convert(407)).toBe('CDVII');
+  });
+
+  it('should change 408', () => {
+    expect(romanService.convert(408)).toBe('CDVIII');
+  });
+
+  it('should change 409', () => {
+    expect(romanService.convert(409)).toBe('CDIX');
+  });
+
+  it('should change 410', () => {
+    expect(romanService.convert(410)).toBe('CDX');
+  });
+
+  it('should change 411', () => {
+    expect(romanService.convert(411)).toBe('CDXI');
+  });
+
+  it('should change 412', () => {
+    expect(romanService.convert(412)).toBe('CDXII');
+  });
+
+  it('should change 413', () => {
+    expect(romanService.convert(413)).toBe('CDXIII');
+  });
+
+  it('should change 414', () => {
+    expect(romanService.convert(414)).toBe('CDXIV');
+  });
+
+  it('should change 415', () => {
+    expect(romanService.convert(415)).toBe('CDXV');
+  });
+
+  it('should change 416', () => {
+    expect(romanService.convert(416)).toBe('CDXVI');
+  });
+
+  it('should change 417', () => {
+    expect(romanService.convert(417)).toBe('CDXVII');
+  });
+
+  it('should change 418', () => {
+    expect(romanService.convert(418)).toBe('CDXVIII');
+  });
+
+  it('should change 419', () => {
+    expect(romanService.convert(419)).toBe('CDXIX');
+  });
+
+  it('should change 420', () => {
+    expect(romanService.convert(420)).toBe('CDXX');
+  });
+
+  it('should change 421', () => {
+    expect(romanService.convert(421)).toBe('CDXXI');
+  });
+
+  it('should change 422', () => {
+    expect(romanService.convert(422)).toBe('CDXXII');
+  });
+
+  it('should change 423', () => {
+    expect(romanService.convert(423)).toBe('CDXXIII');
+  });
+
+  it('should change 424', () => {
+    expect(romanService.convert(424)).toBe('CDXXIV');
+  });
+
+  it('should change 425', () => {
+    expect(romanService.convert(425)).toBe('CDXXV');
+  });
+
+  it('should change 426', () => {
+    expect(romanService.convert(426)).toBe('CDXXVI');
+  });
+
+  it('should change 427', () => {
+    expect(romanService.convert(427)).toBe('CDXXVII');
+  });
+
+  it('should change 429', () => {
+    expect(romanService.convert(429)).toBe('CDXXIX');
+  });
+
+  it('should change 430', () => {
+    expect(romanService.convert(430)).toBe('CDXXX');
+  });
+
+  it('should change 431', () => {
+    expect(romanService.convert(431)).toBe('CDXXXI');
+  });
+
+  it('should change 432', () => {
+    expect(romanService.convert(432)).toBe('CDXXXII');
+  });
+
+  it('should change 433', () => {
+    expect(romanService.convert(433)).toBe('CDXXXIII');
+  });
+
+  it('should change 434', () => {
+    expect(romanService.convert(434)).toBe('CDXXXIV');
+  });
+
+  it('should change 435', () => {
+    expect(romanService.convert(435)).toBe('CDXXXV');
+  });
+
+  it('should change 436', () => {
+    expect(romanService.convert(436)).toBe('CDXXXVI');
+  });
+
+  it('should change 437', () => {
+    expect(romanService.convert(437)).toBe('CDXXXVII');
+  });
+
+  it('should change 438', () => {
+    expect(romanService.convert(438)).toBe('CDXXXVIII');
+  });
+
+  it('should change 439', () => {
+    expect(romanService.convert(439)).toBe('CDXXXIX');
+  });
+
+  it('should change 440', () => {
+    expect(romanService.convert(440)).toBe('CDXL');
+  });
+
+  it('should change 441', () => {
+    expect(romanService.convert(441)).toBe('CDXLI');
+  });
+
+  it('should change 442', () => {
+    expect(romanService.convert(442)).toBe('CDXLII');
+  });
+
+  it('should change 443', () => {
+    expect(romanService.convert(443)).toBe('CDXLIII');
+  });
+
+  it('should change 444', () => {
+    expect(romanService.convert(444)).toBe('CDXLIV');
+  });
+
+  it('should change 445', () => {
+    expect(romanService.convert(445)).toBe('CDXLV');
+  });
+
+  it('should change 446', () => {
+    expect(romanService.convert(446)).toBe('CDXLVI');
+  });
+
+  it('should change 447', () => {
+    expect(romanService.convert(447)).toBe('CDXLVII');
+  });
+
+  it('should change 448', () => {
+    expect(romanService.convert(448)).toBe('CDXLVIII');
+  });
+
+  it('should change 449', () => {
+    expect(romanService.convert(449)).toBe('CDXLIX');
+  });
+
+  it('should change 450', () => {
+    expect(romanService.convert(450)).toBe('CDL');
+  });
+
+  it('should change 451', () => {
+    expect(romanService.convert(451)).toBe('CDLI');
+  });
+
+  it('should change 452', () => {
+    expect(romanService.convert(452)).toBe('CDLII');
+  });
+
+  it('should change 453', () => {
+    expect(romanService.convert(453)).toBe('CDLIII');
+  });
+
+  it('should change 454', () => {
+    expect(romanService.convert(454)).toBe('CDLIV');
+  });
+
+  it('should change 455', () => {
+    expect(romanService.convert(455)).toBe('CDLV');
+  });
+
+  it('should change 456', () => {
+    expect(romanService.convert(456)).toBe('CDLVI');
+  });
+
+  it('should change 457', () => {
+    expect(romanService.convert(457)).toBe('CDLVII');
+  });
+
+  it('should change 458', () => {
+    expect(romanService.convert(458)).toBe('CDLVIII');
+  });
+
+  it('should change 459', () => {
+    expect(romanService.convert(459)).toBe('CDLIX');
+  });
+
+  it('should change 460', () => {
+    expect(romanService.convert(460)).toBe('CDLX');
+  });
+
+  it('should change 461', () => {
+    expect(romanService.convert(461)).toBe('CDLXI');
+  });
+
+  it('should change 462', () => {
+    expect(romanService.convert(462)).toBe('CDLXII');
+  });
+
+  it('should change 463', () => {
+    expect(romanService.convert(463)).toBe('CDLXIII');
+  });
+
+  it('should change 464', () => {
+    expect(romanService.convert(464)).toBe('CDLXIV');
+  });
+
+  it('should change 465', () => {
+    expect(romanService.convert(465)).toBe('CDLXV');
+  });
+
+  it('should change 466', () => {
+    expect(romanService.convert(466)).toBe('CDLXVI');
+  });
+
+  it('should change 467', () => {
+    expect(romanService.convert(467)).toBe('CDLXVII');
+  });
+
+  it('should change 468', () => {
+    expect(romanService.convert(468)).toBe('CDLXVIII');
+  });
+
+  it('should change 469', () => {
+    expect(romanService.convert(469)).toBe('CDLXIX');
+  });
+
+  it('should change 470', () => {
+    expect(romanService.convert(470)).toBe('CDLXX');
+  });
+
+  it('should change 471', () => {
+    expect(romanService.convert(471)).toBe('CDLXXI');
+  });
+
+  it('should change 472', () => {
+    expect(romanService.convert(472)).toBe('CDLXXII');
+  });
+
+  it('should change 473', () => {
+    expect(romanService.convert(473)).toBe('CDLXXIII');
+  });
+
+  it('should change 474', () => {
+    expect(romanService.convert(474)).toBe('CDLXXIV');
+  });
+
+  it('should change 475', () => {
+    expect(romanService.convert(475)).toBe('CDLXXV');
+  });
+
+  it('should change 476', () => {
+    expect(romanService.convert(476)).toBe('CDLXXVI');
+  });
+
+  it('should change 477', () => {
+    expect(romanService.convert(477)).toBe('CDLXXVII');
+  });
+
+  it('should change 478', () => {
+    expect(romanService.convert(478)).toBe('CDLXXVIII');
+  });
+
+  it('should change 479', () => {
+    expect(romanService.convert(479)).toBe('CDLXXIX');
+  });
+
+  it('should change 480', () => {
+    expect(romanService.convert(480)).toBe('CDLXXX');
+  });
+
+  it('should change 481', () => {
+    expect(romanService.convert(481)).toBe('CDLXXXI');
+  });
+
+  it('should change 482', () => {
+    expect(romanService.convert(482)).toBe('CDLXXXII');
+  });
+
+  it('should change 483', () => {
+    expect(romanService.convert(483)).toBe('CDLXXXIII');
+  });
+
+  it('should change 484', () => {
+    expect(romanService.convert(484)).toBe('CDLXXXIV');
+  });
+
+  it('should change 485', () => {
+    expect(romanService.convert(485)).toBe('CDLXXXV');
+  });
+
+  it('should change 486', () => {
+    expect(romanService.convert(486)).toBe('CDLXXXVI');
+  });
+
+  it('should change 487', () => {
+    expect(romanService.convert(487)).toBe('CDLXXXVII');
+  });
+
+  it('should change 488', () => {
+    expect(romanService.convert(488)).toBe('CDLXXXVIII');
+  });
+
+  it('should change 489', () => {
+    expect(romanService.convert(489)).toBe('CDLXXXIX');
+  });
+
+  it('should change 490', () => {
+    expect(romanService.convert(490)).toBe('CDXC');
+  });
+
+  it('should change 491', () => {
+    expect(romanService.convert(491)).toBe('CDXCI');
+  });
+
+  it('should change 492', () => {
+    expect(romanService.convert(492)).toBe('CDXCII');
+  });
+
+  it('should change 493', () => {
+    expect(romanService.convert(493)).toBe('CDXCIII');
+  });
+
+  it('should change 494', () => {
+    expect(romanService.convert(494)).toBe('CDXCIV');
+  });
+
+  it('should change 495', () => {
+    expect(romanService.convert(495)).toBe('CDXCV');
+  });
+
+  it('should change 496', () => {
+    expect(romanService.convert(496)).toBe('CDXCVI');
+  });
+
+  it('should change 497', () => {
+    expect(romanService.convert(497)).toBe('CDXCVII');
+  });
+
+  it('should change 498', () => {
+    expect(romanService.convert(498)).toBe('CDXCVIII');
+  });
+
+  it('should change 499', () => {
+    expect(romanService.convert(499)).toBe('CDXCIX');
+  });
+
+  it('should change 500', () => {
+    expect(romanService.convert(500)).toBe('D');
+  });
+
+  it('should change 501', () => {
+    expect(romanService.convert(501)).toBe('DI');
+  });
+
+  it('should change 502', () => {
+    expect(romanService.convert(502)).toBe('DII');
+  });
+
+  it('should change 503', () => {
+    expect(romanService.convert(503)).toBe('DIII');
+  });
+
+  it('should change 504', () => {
+    expect(romanService.convert(504)).toBe('DIV');
+  });
+
+  it('should change 505', () => {
+    expect(romanService.convert(505)).toBe('DV');
+  });
+
+  it('should change 506', () => {
+    expect(romanService.convert(506)).toBe('DVI');
+  });
+
+  it('should change 507', () => {
+    expect(romanService.convert(507)).toBe('DVII');
+  });
+
+  it('should change 508', () => {
+    expect(romanService.convert(508)).toBe('DVIII');
+  });
+
+  it('should change 509', () => {
+    expect(romanService.convert(509)).toBe('DIX');
+  });
+
+  it('should change 510', () => {
+    expect(romanService.convert(510)).toBe('DX');
+  });
+
+  it('should change 511', () => {
+    expect(romanService.convert(511)).toBe('DXI');
+  });
+
+  it('should change 512', () => {
+    expect(romanService.convert(512)).toBe('DXII');
+  });
+
+  it('should change 513', () => {
+    expect(romanService.convert(513)).toBe('DXIII');
+  });
+
+  it('should change 514', () => {
+    expect(romanService.convert(514)).toBe('DXIV');
+  });
+
+  it('should change 515', () => {
+    expect(romanService.convert(515)).toBe('DXV');
+  });
+
+  it('should change 516', () => {
+    expect(romanService.convert(516)).toBe('DXVI');
+  });
+
+  it('should change 517', () => {
+    expect(romanService.convert(517)).toBe('DXVII');
+  });
+
+  it('should change 518', () => {
+    expect(romanService.convert(518)).toBe('DXVIII');
+  });
+
+  it('should change 519', () => {
+    expect(romanService.convert(519)).toBe('DXIX');
+  });
+
+  it('should change 520', () => {
+    expect(romanService.convert(520)).toBe('DXX');
+  });
+
+  it('should change 521', () => {
+    expect(romanService.convert(521)).toBe('DXXI');
+  });
+
+  it('should change 522', () => {
+    expect(romanService.convert(522)).toBe('DXXII');
+  });
+
+  it('should change 523', () => {
+    expect(romanService.convert(523)).toBe('DXXIII');
+  });
+
+  it('should change 524', () => {
+    expect(romanService.convert(524)).toBe('DXXIV');
+  });
+
+  it('should change 525', () => {
+    expect(romanService.convert(525)).toBe('DXXV');
+  });
+
+  it('should change 526', () => {
+    expect(romanService.convert(526)).toBe('DXXVI');
+  });
+
+  it('should change 527', () => {
+    expect(romanService.convert(527)).toBe('DXXVII');
+  });
+
+  it('should change 528', () => {
+    expect(romanService.convert(528)).toBe('DXXVIII');
+  });
+
+  it('should change 529', () => {
+    expect(romanService.convert(529)).toBe('DXXIX');
+  });
+
+  it('should change 530', () => {
+    expect(romanService.convert(530)).toBe('DXXX');
+  });
+
+  it('should change 531', () => {
+    expect(romanService.convert(531)).toBe('DXXXI');
+  });
+
+  it('should change 532', () => {
+    expect(romanService.convert(532)).toBe('DXXXII');
+  });
+
+  it('should change 533', () => {
+    expect(romanService.convert(533)).toBe('DXXXIII');
+  });
+
+  it('should change 534', () => {
+    expect(romanService.convert(534)).toBe('DXXXIV');
+  });
+
+  it('should change 535', () => {
+    expect(romanService.convert(535)).toBe('DXXXV');
+  });
+
+  it('should change 536', () => {
+    expect(romanService.convert(536)).toBe('DXXXVI');
+  });
+
+  it('should change 537', () => {
+    expect(romanService.convert(537)).toBe('DXXXVII');
+  });
+
+  it('should change 538', () => {
+    expect(romanService.convert(538)).toBe('DXXXVIII');
+  });
+
+  it('should change 539', () => {
+    expect(romanService.convert(539)).toBe('DXXXIX');
+  });
+
+  it('should change 540', () => {
+    expect(romanService.convert(540)).toBe('DXL');
+  });
+
+  it('should change 541', () => {
+    expect(romanService.convert(541)).toBe('DXLI');
+  });
+
+  it('should change 542', () => {
+    expect(romanService.convert(542)).toBe('DXLII');
+  });
+
+  it('should change 543', () => {
+    expect(romanService.convert(543)).toBe('DXLIII');
+  });
+
+  it('should change 544', () => {
+    expect(romanService.convert(544)).toBe('DXLIV');
+  });
+
+  it('should change 545', () => {
+    expect(romanService.convert(545)).toBe('DXLV');
+  });
+
 });
